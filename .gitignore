@@ -1,10 +1,4 @@
-*__pycache__/
-samples*/
-runs/
-checkpoints/
-master_ip
-logs/
-*.DS_Store
-.idea
-output*
-test*
+.ipynb_checkpoints
+Videos/
+wandb
+data

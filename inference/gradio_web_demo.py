@@ -197,4 +197,4 @@ with gr.Blocks() as demo:
     enhance_button.click(enhance_prompt_func, inputs=[prompt], outputs=[prompt])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)
